@@ -89,10 +89,15 @@ Since code is consolidated into a single Jupyter notebook, the repository might 
 
 bash
 Copy
+
 RapidEyes/
+
 ├── data/                      # (Optional) dataset folder
+
 ├── RapidEyes.ipynb            # The main notebook containing all code & experiments
+
 ├── requirements.txt           # Python dependencies
+
 └── README.md
 
 RapidEyes.ipynb includes:
